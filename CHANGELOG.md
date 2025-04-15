@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/TouchTheTop/git-flow-study/compare/v1.0.4...v2.0.0) (2025-04-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* **custom:** d
+
+### Features
+
+* **custom:** dd ([c3238c2](https://github.com/TouchTheTop/git-flow-study/commit/c3238c2997ff964653c0d24e4921f7d2121e6550))
+
 ### [1.0.4](https://github.com/TouchTheTop/git-flow-study/compare/v1.0.3...v1.0.4) (2025-04-15)
 
 
