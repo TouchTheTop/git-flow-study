@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/TouchTheTop/git-flow-study/compare/v2.0.0...v3.0.0) (2025-04-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* **custom:** UserList 组件已移除，改为使用 UserTable
+
+### Bug Fixes
+
+* **custom:** 修复的说明 ([067b5fd](https://github.com/TouchTheTop/git-flow-study/commit/067b5fd6e547788dfbd91ccf62e5b83e7001b688))
+
 ## [2.0.0](https://github.com/TouchTheTop/git-flow-study/compare/v1.0.4...v2.0.0) (2025-04-15)
 
 
